@@ -1,4 +1,4 @@
-# Arquivos e pastas do Visual Studio
+# Ignorar arquivos do Visual Studio
 .vs/
 *.vsidx
 *.suo
@@ -18,18 +18,16 @@
 *.testrunconfig
 *.coverage
 
-# Arquivos compilados e executáveis
+# Ignorar arquivos compilados C++
 *.o
 *.obj
 *.exe
-*.dll
-*.lib
-*.bin
-*.out
+a.out
 Debug/
 Release/
 build/
 
-# Outros
+# Ignorar outros arquivos
 *~
 *.bak
+# Adicione aqui outras linhas que você queira manter do .gitignore do GitHub, se houver
