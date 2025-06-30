@@ -1,0 +1,35 @@
+# Arquivos e pastas do Visual Studio
+.vs/
+*.vsidx
+*.suo
+*.user
+*.aps
+*.bsc
+*.map
+*.sbr
+*.pch
+*.pcd
+*.pgm
+*.tlb
+*.tlh
+*.tmp
+*.log
+*.trx
+*.testrunconfig
+*.coverage
+
+# Arquivos compilados e executáveis
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.bin
+*.out
+Debug/
+Release/
+build/
+
+# Outros
+*~
+*.bak
